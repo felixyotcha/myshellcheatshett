@@ -40,6 +40,7 @@
 # echo "Created hello/world.txt"
 
 
+# IF ELIF THEN ELSE
 
 #! /bin/bash
 echo "Enter your number of jobs"
@@ -59,9 +60,8 @@ if [ "$jobs" == "0" ]
    echo "Buy a house man, it's a good investment"
 fi
 
-xxxxxxxxx
 
-
+#IN CASE
 
 ! /bin/bash
 
@@ -112,7 +112,7 @@ do
   a=$(( $a + 1 ))
 done
 
-xxxxxxxxx
+#SIMPLE WHILE FOR AUTOMATION
 
 a=1
 while [ $a -le 2 ]
@@ -123,7 +123,8 @@ do
    echo "xxxxxxxxxxxx"
 done
 
-xxxxxxxxx
+
+#IF THEN
 
  a=1
  while [ $a -le 3 ]
@@ -150,7 +151,6 @@ xxxxxxxxx
 done
 
 
-xxxxxxxxxxxxxx
 
 # COMPARISON
 # NUM1=31
